@@ -9,6 +9,8 @@ juliana = turtle.Turtle()
 bobby.speed(10)
 randy.speed(10)
 billy.speed(10)
+juliana.speed(10)
+
 
 bobby.color("yellow")
 bobby.pencolor("black")
